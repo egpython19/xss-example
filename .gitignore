@@ -1,2 +1,8 @@
 __pycache__/
 *.db
+requirements.txt
+setup.py
+Procfile
+model.py
+venv/
+.idea/
